@@ -12,4 +12,4 @@ spring:
         service-id: CONFIG
       profile: dev
 env:
-  dev: "git开发"
+  dev: "git开发new"
