@@ -11,3 +11,5 @@ spring:
         enabled: true
         service-id: CONFIG
       profile: dev
+env:
+  dev: "git开发"
